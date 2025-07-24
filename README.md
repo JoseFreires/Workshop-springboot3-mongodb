@@ -9,6 +9,7 @@ NoSQL, controles de endpoints e Exceptions, além de executar operações CRUD n
 </p>
 
 ## Modelo de Domínio
+<img width="533" height="179" alt="image" src="https://github.com/user-attachments/assets/2e61564b-0e16-44a2-9f69-2cb56c5313ab" />
 
 
 ## Conceitos Abordados
